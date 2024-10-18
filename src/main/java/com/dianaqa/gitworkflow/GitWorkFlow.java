@@ -20,6 +20,7 @@ public class GitWorkFlow {
         String step8 = " Create a pull request from source origin/task_1 to origin/master - make sure you add the reviewers";
         String step9 = "If there are no comments and the code is approved (changes), then we merge the code";
 
+
         String step9_1 = "If thee are some comments, then we go back to local branch task_1 -> IntellIJ IDEA";
         String step9_2 = "We add the changes and modify the last commit by using the git commit amend";
         String step9_3 = "Then we have to execute the git push -f command";
