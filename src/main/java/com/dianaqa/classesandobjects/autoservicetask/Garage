@@ -1,0 +1,8 @@
+package com.dianaqa.classesandobjects.autoservicetask;
+
+public class Garage {
+    String name;
+
+    String address;
+
+}
