@@ -20,12 +20,12 @@ public class VariablesAndComments {
         exampleOfCharVariable = 'D';
         exampleOfIntVariable = 123456;
         exampleOfByteVariable = 17;
-        exampleOfShortVariable = 45000;
+        exampleOfShortVariable = 32000;
         exampleOfLongVariable = 5689765;
-        exampleOfFloatVariable = 36,8f;
+        exampleOfFloatVariable = 36.8f;
         exampleOfDoubleVariable = 345.876544;
 
-        System.out.printIn(exampleOfShortVariable);
+        System.out.println();(exampleOfShortVariable);
     }
 
 }
